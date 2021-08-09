@@ -1,2 +1,2 @@
 # Ex1-CPP
-first task in cpp
+The first task in cpp course
